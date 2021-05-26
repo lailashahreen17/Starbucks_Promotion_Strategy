@@ -6,7 +6,7 @@ Our promotion strategy will be evaluated on 2 key metrics
 
 Incremental Response Rate (IRR)
 Net Incremental Revenue (NIR)
-There are numerous approaches to tackle this problem. I have chosen to implement Four Quarrant Approach models to optimize the promotional strategy. 4 different types of uplift models were implemented:
+There are numerous approaches to tackle this problem. I have chosen to implement labels of 1 to those who received the promotions and made purchases, and labels of 0 to everyone else. In other words, we want the model to find the individuals who are likely to purchase only after they received a promotion.
 
 ## File Description
 training.csv: Contains training data
