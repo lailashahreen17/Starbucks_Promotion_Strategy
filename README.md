@@ -1,5 +1,5 @@
-## Starbucks_Promotion_Strategy
-Project Description
+# Starbucks_Promotion_Strategy
+## Project Description
 This portfolio exercise was originally used as a take-home assignment provided by Starbucks for their job candidates. This exercise involves an advertising promotion that was tested to see if it would bring more customers to purchase a specific product priced at $10. It costs the company 0.15 to send out each promotion. Ideally, we want to limit that promotion only to those that are most receptive to the promotion.
 
 Our promotion strategy will be evaluated on 2 key metrics
